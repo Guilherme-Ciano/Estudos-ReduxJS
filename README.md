@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# Estudo sobre `Redux`
+
+O Redux é uma lib muito utilizada para arquitetura de projetos, geralmente em React ou React Native.
+Entendemos a necessidade quando estamos "nos perdendo" com os dados da aplicação, a fim de, centralizar as regras de
+negócio do projeto em um único local.
+
+Em suma, ele vai criar uma arquitetura que centraliza a entrada e a saida ed dados em um único local a fim
+de não tornar o código redundante e bem centralizado, sem a necessidade de buscar os estados de cada componente
+e sua devida função.
+
+<hr />
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
